@@ -1,0 +1,41 @@
+{
+  "frame": "frame_000015.jpg",
+  "image_width": 720,
+  "image_height": 480,
+  "confidence_threshold": 0.5,
+  "detections": [
+    {
+      "class_id": 25,
+      "class_name": "giraffe",
+      "confidence": 1.0,
+      "bbox_xyxy": [
+        303.84,
+        150.79,
+        502.16,
+        311.71
+      ]
+    },
+    {
+      "class_id": 25,
+      "class_name": "giraffe",
+      "confidence": 1.0,
+      "bbox_xyxy": [
+        210.83,
+        151.72,
+        285.65,
+        318.21
+      ]
+    },
+    {
+      "class_id": 16,
+      "class_name": "bird",
+      "confidence": 0.99,
+      "bbox_xyxy": [
+        254.27,
+        217.38,
+        358.27,
+        362.68
+      ]
+    }
+  ]
+}
